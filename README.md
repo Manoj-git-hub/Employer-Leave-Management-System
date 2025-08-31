@@ -1,3 +1,4 @@
+HEAD
 # Mini Leave Management System (Spring Boot)
 
 ## Setup
@@ -58,3 +59,7 @@ The app uses an in-memory H2 database. H2 console: `http://localhost:8080/h2-con
 - Different leave types and accrual rules
 - Email/notification integration
 - Pagination & filters for lists
+
+# Employer-Leave-Management-System
+A Spring Boot REST API for managing employees and their leave requests. It allows adding employees, applying for leave, approving/rejecting requests, and checking leave balances. Built with Java 21, Spring Boot, H2 Database, and Maven.
+>>>>>>> 024a79ceac92bdabe09e04ad8ccc6777702dfddc
